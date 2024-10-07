@@ -13,7 +13,7 @@
 <header>
     <h1>Mi Blog</h1>
 </header>
-    <aside>
+    <aside> 
         <nav>
         <a href=""><b>Inicio</b></a>
         <a href=""><b>Sobre mi</b></a>
