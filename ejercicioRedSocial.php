@@ -15,7 +15,7 @@
 </header>
     <aside> 
         <nav>
-        <a href=""><b>Inicio</b></a>
+        <a href="/"><b>Inicio</b></a>
         <a href=""><b>Sobre mi</b></a>
         <a href=""><b>Blog</b></a>
         <a href=""><b>Contacto</b></a>
